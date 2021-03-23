@@ -10,6 +10,6 @@ GitHub, and other virtual learning platforms.
 
 ## License
 
-The rubrics are made available under the
+Unless otherwise noted, the rubrics are made available under the
 [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0)
 license.

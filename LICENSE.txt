@@ -1,7 +1,7 @@
 Copyright (c) 2021 Leonardo Uieda
 
-This material is made available under the Creative Commons Attribution 4.0
-International (CC BY 4.0) license.
+Unless otherwise noted, this material is made available under the Creative
+Commons Attribution 4.0 International (CC BY 4.0) license.
 
 You are free to:
 
