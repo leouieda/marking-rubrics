@@ -1,5 +1,12 @@
 # Rubric for marking a computational report (Jupyter notebook)
 
+This rubric is for a Jupyter notebook containing code for analysing data and
+the interpretation of the results. It has a mixture of coding and traditional
+report criteria.
+
+If your notebooks contain only the coding aspect and not the data analysis, use
+the [`rubric-code.md`](rubric-code.md) instead.
+
 ## License
 
 The "Code" category was adapted from the rubric used by
